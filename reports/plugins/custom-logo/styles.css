@@ -1,0 +1,14 @@
+.side-nav__brand {
+  background: url('allure_logo.jpg') no-repeat left center !important;
+  margin-left: 20px;
+  height: 50px;
+  background-size: contain !important;
+}
+.side-nav__brand span{
+  display: none;
+}
+.side-nav__brand:after{
+  content: "易加油";
+  margin-left: 20px;
+  height: 30px;
+}

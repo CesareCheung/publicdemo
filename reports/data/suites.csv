@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Oct 11 09:19:27 CST 2023","Wed Oct 11 09:19:27 CST 2023","0","testcases.product_manage","test_jiayou","Testjiayou","","","test_alibaba",""
+"passed","Wed Oct 11 09:19:27 CST 2023","Wed Oct 11 09:19:27 CST 2023","1","testcases.product_manage","test_jiayou","Testjiayou","","","test_baidu",""
+"passed","Wed Oct 11 09:19:27 CST 2023","Wed Oct 11 09:19:27 CST 2023","0","testcases.product_manage","test_jiayou","Testjiayou","","","test_wangyi",""
+"passed","Wed Oct 11 09:19:27 CST 2023","Wed Oct 11 09:19:27 CST 2023","1","testcases.user_manage","test_api","TestApi","","","test_gettoken",""
+"passed","Wed Oct 11 09:19:27 CST 2023","Wed Oct 11 09:19:27 CST 2023","0","testcases.product_manage","test_jiayou","Testjiayou","","","test_sql",""
