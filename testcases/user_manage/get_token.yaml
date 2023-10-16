@@ -4,4 +4,6 @@
     method: post
     url: https://xxxxxxxx/auth/doLogin
     data:
-      {"telephone":"xxxxxxx","password":"12345678","loginType":1}
+      telephone: 13000000000
+      password: 12345678
+      loginType: 1
